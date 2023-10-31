@@ -9,7 +9,7 @@
 <body>
 
     <form action="">
-    <label >Informe a cor</label>
+    <label >Escolha vermelho ou verde</label>
         <input type="text" name="color">
         <input type="submit" value="Verificar">
     </form>
